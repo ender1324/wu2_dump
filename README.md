@@ -1,0 +1,14 @@
+# full_yuanda6580_we_l-user 5.1 LMY47I 1585907426 release-keys
+- manufacturer: smartphone
+- platform: mt6580
+- codename: Smartphone
+- flavor: full_yuanda6580_we_l-user
+- release: 5.1
+- id: LMY47I
+- incremental: 1585907426
+- tags: release-keys
+- fingerprint: alps/full_yuanda6580_we_l/yuanda6580_we_l:5.1/LMY47I/1585907426:user/release-keys
+- is_ab: false
+- brand: WELCOME
+- branch: full_yuanda6580_we_l-user-5.1-LMY47I-1585907426-release-keys
+- repo: welcome_smartphone_dump
